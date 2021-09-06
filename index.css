@@ -267,4 +267,10 @@ img{
     .footer-distributed .footer-left {
        display: inline;
     }
+
+   .hero .content h1 {
+    font-size: 30px;
+    margin-top: 78px;
+    margin-bottom: 10px;
+    }
 }
